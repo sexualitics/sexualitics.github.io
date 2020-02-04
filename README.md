@@ -1,4 +1,4 @@
 sexualitics.github.io
 =====================
 
-Datasets for Sexualitics :: http://sexualitics.org/
+Datasets for Sexualitics :: https://antonomase.fr/#sexualitics
